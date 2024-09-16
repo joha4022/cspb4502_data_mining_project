@@ -4,7 +4,7 @@ Joo Young Han<br>
 Laura Brown
 
 ## "There is no post-hurricane world"
-This data mining project aims to analyze the impact of natural disasters on the economy by location, using pre- and post-disaster datasets. The project will explore patterns and correlations between disaster frequency, severity, and their economic consequences, identifying key factors that influence recovery and resilience in different regions. By leveraging data mining techniques, the project will provide insights into the economic vulnerabilities of specific locations and inform disaster preparedness and mitigation strategies.
+Our project, There is no post-hurricane world, takes its title from the 2023 Whitney Museum exhibition on Hurricane Maria’s lasting effects in Puerto Rico. It aims to analyze the economic and social impacts of natural disasters, using pre- and post-disaster datasets from 2006 to 2024. We will explore patterns between disaster frequency, severity, and economic consequences, focusing on GDP growth and metrics such as national debt, education, healthcare, and gender disparities. By comparing various disasters—including hurricanes, floods, and earthquakes—we aim to identify long-term impacts and key factors influencing recovery and resilience. Leveraging data mining techniques, this study will provide insights into the economic vulnerabilities of specific regions and inform disaster preparedness and mitigation strategies.
 
 ## Dataset URLs & References
 https://www.kaggle.com/datasets/jseebs/disaster-dataset<br>
