@@ -17,3 +17,5 @@
 .ds_store
 venv/
 dataset_processed/
+WDICSV.csv
+
