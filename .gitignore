@@ -18,4 +18,4 @@
 venv/
 dataset_processed/
 WDICSV.csv
-
+project.db
