@@ -1,15 +1,15 @@
-###############################################
-Filename: requirements.txt
-
-Purpose: This .txt file ensures that 
-necessary dependencies are installed across 
-all project workspaces. 
-
-Author: Alexander X. Gonzalez-Torres
-
-Usage: Install the dependencies by running 
-pip install -r requirements.txt in the terminal. 
 ################################################
+# Filename: requirements.txt
+#
+# Purpose: This .txt file ensures that 
+#          necessary dependencies are installed 
+#          across all project workspaces. 
+#
+# Author: Alexander X. Gonzalez-Torres
+#
+# Usage: Install the dependencies by running 
+# pip install -r requirements.txt in the terminal. 
+#################################################
 
 anyio==4.6.2.post1
 appnope==0.1.4
