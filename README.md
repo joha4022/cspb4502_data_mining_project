@@ -4,20 +4,4 @@ Alexander Gonzalez Torres<br>
 Joo Young Han
 
 ## "There is no post-hurricane world"
-Our project, There is no post-hurricane world, takes its title from the 2023 Whitney Museum exhibition on Hurricane Maria’s lasting effects in Puerto Rico. It aims to analyze the economic and social impacts of natural disasters, using pre- and post-disaster datasets from 2006 to 2024. We will explore patterns between disaster frequency, severity, and economic consequences, focusing on GDP growth and metrics such as national debt, education, healthcare, and gender disparities. By comparing various disasters—including hurricanes, floods, and earthquakes—we aim to identify long-term impacts and key factors influencing recovery and resilience. Leveraging data mining techniques, this study will provide insights into the economic vulnerabilities of specific regions and inform disaster preparedness and mitigation strategies.
-
-## Dataset URLs & References
-https://www.kaggle.com/datasets/jseebs/disaster-dataset<br>
-https://databank.worldbank.org/reports.aspx?source=2&series=NY.GDP.MKTP.KD.ZG&country=
-
-## Proposed Work
-**Integration** - Combine the two datasets listed above<br>
-**Normalization** - Normalize natural disasters<br>
-**Cleaning** - Clean up the dataset to clean in any empty attributes and ourliers<br>
-**New Attribute** - Create a new attribute to display the effects of disasters<br>
-**Visualization** - Provide visualization to explain this project's discoveries
-
-## Libraries Used
-**numpy** - https://numpy.org/<br>
-**pandas** - https://pandas.pydata.org/
-
+Natural disasters have profound effects on both the economic and social development of nations. Research on disaster impacts, such as those caused by Hurricane Maria in Puerto Rico, demonstrates how these disruptions can create long-term challenges in governance, human development, and economic recovery. The idea that "there is no post-hurricane world," as a 2022 exhibit at the Whitney Museum of American art put it, suggests that disasters like hurricanes, floods, and earthquakes fundamentally alter a society’s trajectory, leaving lasting scars on economic performance and social well-being. However, whether these disruptions produce temporary setbacks or long-term changes requires further exploration, particularly as it concerns social development metrics that are well-documented yet often omitted from disaster research. For example, access to clean cooking fuels, regulatory quality, access to financial institutions, etc. This project aims to fill this research gap by applying data mining and statistical techniques to a combined dataset that includes: 1. Information on natural disasters between 1960 and 2023 2. Economic and human development metrics for this time period. 
